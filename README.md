@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Knindza!</h1>
-<h3 align="center">A passionate developer from Serbia.</h3>
+<h1 align="center">Hello there!</h1>
+<h3 align="center">Founder of Shadowburn & Lichbane.</h3>
 
 <h3 align="center">Find me on:</h3>
 <p align="center"><a href="https://twitter.com/knindzagxg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="knindzagxg" height="30" width="40" /></a>
