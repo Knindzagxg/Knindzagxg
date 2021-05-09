@@ -18,10 +18,10 @@
 
 <h3 align="center">Development Skills:</h3>
 <p align="center"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1620559304~hmac=315eb27684fe3bfa7791a87fe2542c2f" alt="css3" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1620558482~hmac=ac2de4d499350c5117f3d5a4b6addc97" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/919/919836.svg?token=exp=1620559332~hmac=2d10d7c50479ea7f6c741534f26aaf01" alt="mysql" width="40" height="40"/></a> 
-<a href="https://www.php.net" target="_blank"> <img src="http://shadowburn.net/external/development/mysql.png" alt="php" width="40" height="40"/></a></p>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="http://shadowburn.net/external/development/css.png" alt="css3" width="40" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="http://shadowburn.net/external/development/html.png" alt="html5" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="http://shadowburn.net/external/development/mysql.png" alt="mysql" width="40" height="40"/></a> 
+<a href="https://www.php.net" target="_blank"> <img src="http://shadowburn.net/external/development/php.png" alt="php" width="40" height="40"/></a></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knindzagxg&show_icons=true" alt="knindzagxg" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=knindzagxg" alt="knindzagxg" /> </p>
