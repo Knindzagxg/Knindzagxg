@@ -9,7 +9,7 @@
 <a href="https://twitter.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/twitter.png" alt="knindzagxg" height="40" width="40" /></a>
 <a href="https://discord.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/discord.png" alt="knindzagxg" height="40" width="40" /></a>
 <a href="https://youtube.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/youtube.png" alt="knindzagxg" height="40" width="40" /></a>
-<a href="https://patreon.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/patreon.png" alt="knindzagxg" height="40" width="40" /></a>
+<a href="https://patreon.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/patreon.png" alt="knindzagxg" height="38" width="38" /></a>
 <a href="https://reddit.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/reddit.png" alt="knindzagxg" height="40" width="40" /></a></p>
 
 <h3 align="center">Multi language support:</h3>
