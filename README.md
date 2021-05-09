@@ -7,7 +7,7 @@
 <a href="https://www.youtube.com/c/knindzagxg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="knindzagxg" height="30" width="40" /></a></p>
 
 <h3 align="center">Multi language support:</h3>
-<p align="center"><a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202951.svg" alt="knindzagxg" height="30" width="40" /></a>
+<p align="center">
 <a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/usa.png" alt="knindzagxg" height="32" width="32" /></a>
 <a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/england.png" alt="knindzagxg" height="32" width="32" /></a>
 <a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/serbia.png" alt="knindzagxg" height="32" width="32" /></a>
