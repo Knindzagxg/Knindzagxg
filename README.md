@@ -34,7 +34,7 @@
 
 <h3 align="center">Donate:</h3>
 <p align="center"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="http://shadowburn.net/external/development/css.png" alt="css3" width="40" height="40"/></a></p>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="http://shadowburn.net/social/paypal.png" alt="css3" width="40" height="40"/></a></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knindzagxg&show_icons=true" alt="knindzagxg" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=knindzagxg" alt="knindzagxg" /> </p>
