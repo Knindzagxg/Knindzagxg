@@ -5,7 +5,7 @@
 <h3 align="center"></h3>
 <h2 align="center">Find me on:</h2>
 <p align="center"><a href="https://shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/wow.png" alt="knindzagxg" height="40" width="40" /></a>
-<a href="https://facebook.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/facebbok.png" alt="knindzagxg" height="40" width="40" /></a>
+<a href="https://facebook.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/facebook.png" alt="knindzagxg" height="40" width="40" /></a>
 <a href="https://twitter.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/twitter.png" alt="knindzagxg" height="40" width="40" /></a>
 <a href="https://discord.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/discord.png" alt="knindzagxg" height="40" width="40" /></a>
 <a href="https://youtube.shadowburn.net" target="blank"><img align="center" src="http://shadowburn.net/external/social/youtube.png" alt="knindzagxg" height="40" width="40" /></a>
