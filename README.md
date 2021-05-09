@@ -8,12 +8,15 @@
 
 <h3 align="center">Multi language support:</h3>
 <p align="center"><a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202951.svg" alt="knindzagxg" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/203/203068.svg?token=exp=1620558085~hmac=d2051f3bc4e0de14ff8f56cb0e233b9c" alt="knindzagxg" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202969.svg" alt="knindzagxg" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/203/203099.svg" alt="knindzagxg" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202990.svg" alt="knindzagxg" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202878.svg" alt="knindzagxg" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202871.svg" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/usa.png" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/england.png" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/serbia.png" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/montenegro.png" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/kosovo.png" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/croatia.png" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/bosnia.png" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/macedonia" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="http://shadowburn.net/external/countries/slovenia.png" alt="knindzagxg" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Development Skills:</h3>
