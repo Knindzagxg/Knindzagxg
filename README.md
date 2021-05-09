@@ -8,7 +8,7 @@
 
 <h3 align="center">Multi language support:</h3>
 <p align="center"><a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202951.svg" alt="knindzagxg" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/203/203068.svg" alt="knindzagxg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1620558009~hmac=66b30e2cb385f65c736478dd69c7d19e" alt="knindzagxg" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202969.svg" alt="knindzagxg" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/203/203099.svg" alt="knindzagxg" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/202/202990.svg" alt="knindzagxg" height="30" width="40" /></a>
